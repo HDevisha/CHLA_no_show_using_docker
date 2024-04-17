@@ -56,10 +56,4 @@ Input patient data into the Streamlit application to predict the likelihood of a
 - **Network URL**: [http://192.168.4.23:8502](http://192.168.4.23:8502)
 - **Public URL**: [https://chla-app-deploy-8nssmqm4zndzqcb5dkmelt.streamlit.app](https://chla-app-deploy-8nssmqm4zndzqcb5dkmelt.streamlit.app)
 
-## Additional Notes
-
-Ensure all data used complies with HIPAA and patient privacy guidelines. The application is designed for educational and research purposes and should be adjusted accordingly for any commercial use.
-
----
-
 This README is designed to give an overview of the project, its components, and how to get it running on your local machine. Adjust any paths or additional instructions based on your specific setup or organizational requirements.
